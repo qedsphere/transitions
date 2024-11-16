@@ -1,4 +1,3 @@
 # fullstackfinalproject
-### git# transitions
-# transitions
-# transitions
+### git transitions
+
